@@ -1,9 +1,12 @@
 # MatPlotLib-for-Python-Developers---Advanced
 
 <p>Implemented by Bùi Hà Nhi</p>
-My bios: [Linked in](https://www.linkedin.com/in/buihanhi) [Facebook](www.facebook.com/bhanih)
+My bios: 
+- [Linked in](https://www.linkedin.com/in/buihanhi)
+- [Facebook](https://www.facebook.com/bhanih)
 <p>Instructor: Exam Turf (#1 Brand for Competitive Exam Preparation and Test Series)</p>
-Information: [Facebook](https://www.facebook.com/examturfprep/)
+Information: 
+-[Facebook](https://www.facebook.com/examturfprep/)
 
 <p>Learn about advanced level topics and how to leverage them to draft solutions for plotting based problems.</p>
 
